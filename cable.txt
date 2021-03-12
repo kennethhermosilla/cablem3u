@@ -387,3 +387,6 @@ https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 
 #EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_Tokyo_logo_20110629.svg" tvg-url="" group-title="Local",BS TV Tokyo (BS171)
 http://203.162.235.41:16915
+
+#EXTINF:-1 tvg-name="SBS Plus" group-title="South Korea", SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8?checkedby:iptvcat.com
