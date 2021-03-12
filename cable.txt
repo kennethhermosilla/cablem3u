@@ -384,3 +384,6 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
+
+#EXTINF:-1 tvg-id="BSTVTokyoBS171.jp" tvg-name="BS TV Tokyo (BS171)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_Tokyo_logo_20110629.svg" tvg-url="" group-title="Local",BS TV Tokyo (BS171)
+http://203.162.235.41:16915
